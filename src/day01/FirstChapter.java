@@ -1,4 +1,4 @@
-package dayo1;
+package day01;
 
 public class FirstChapter {
 
